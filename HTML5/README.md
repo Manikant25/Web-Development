@@ -14,3 +14,10 @@ You will find all synatx from basic to advance , all source code is written with
 1. HTML elements are used to describe the structure of the page (e.g. headings, subheadings, paragraphs).
 2. They also provide semantic information (e.g. where emphasis should be placed, the definition of any acronyms used, when given text is a quotation).
 
+
+# List
+1. There are three types of HTML lists: ordered, unordered, and definition.
+2. Ordered lists use numbers.
+3. Unordered lists use bullets.
+4. Definition lists are used to define terminology.
+5. Lists can be nested inside one another.
