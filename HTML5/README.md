@@ -14,7 +14,6 @@ You will find all synatx from basic to advance , all source code is written with
 1. HTML elements are used to describe the structure of the page (e.g. headings, subheadings, paragraphs).
 2. They also provide semantic information (e.g. where emphasis should be placed, the definition of any acronyms used, when given text is a quotation).
 
-
 # List
 1. There are three types of HTML lists: ordered, unordered, and definition.
 2. Ordered lists use numbers.
@@ -28,4 +27,11 @@ You will find all synatx from basic to advance , all source code is written with
 3. If you are linking to a page within your own site, it is best to use relative links rather than qualified URLs.
 4. You can create links to open email programs with an email address in the "to" field.
 5. You can use the id attribute to target elements within a page that can be linked to.
+
+# Image
+1. The <img> element is used to add images to a web page.
+2. You must always specify src attribute to indicate the source of an image and an alt attribute to describe the content of an image.
+3. You should save images at the size you will be using them on the web page and in the appropriate format.
+4. Photographs are best saved as JPEGs; illustrations or logos that use flat colors are better saved as GIFs.
+
 
