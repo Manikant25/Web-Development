@@ -47,6 +47,17 @@ You will find all synatx from basic to advance , all source code is written with
 3. Each form control is given a name, and the text the user types in or the values of the options they select are sent to the server.
 4. HTML5 introduces new form elements which make it easier for visitors to fill in forms.
 
+# Extra Markups
+1. DOCTYPES tell browsers which version of HTML you are using.
+2. You can add comments to your code between the  <!-- and --> markers.
+3. The id and class attributes allow you to identify particular elements.
+4. The div and span elements allow you to group block-level and inline elements together.
+5. iframes cut windows into your web pages through which other pages can be displayed.
+6. The meta tag allows you to supply all kinds of information about your web page.
+7. Escape characters are used to include special characters in your pages such as <, >, and ©.
+  
+
+
 
 
 
